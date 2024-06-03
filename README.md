@@ -9,25 +9,6 @@ while still being user-friendly. This is enabled by reducing energy system asset
 supported by specialized implementation, and can be combined into complex systems without the need of a detailed
 understanding of mathematical modeling or proficiency in any coding-language.
 
-## Getting started
+## Interested?
 
-Depending on your use-case, and choice of programming language / setup, there are different ways to get started. If you
-are experienced with Julia, and want to interact with the core model itself, head over to
-[IESopt.jl](https://github.com/ait-energy/IESopt.jl). If you are looking for a more user-friendly interaction, or are
-new to energy system modeling and/or coding at all, you might want to check out the Python wrapper
-[iesopt](https://github.com/ait-energy/iesopt-py).
-
-> If you are not 110% sure where to start... start here: [iesopt](https://github.com/ait-energy/iesopt-py)
-
-## Projects, publications, and topics
-
-The following sections provide an overview of projects, publications, and topics related to IESopt. If you have a
-project, publication, or topic that you would like to add, please follow the instructions, on how to contribute those to
-this repository, in the respective section.
-
-- A list of publications that made use of IESopt is maintained in the [publications/](publications/README.md) folder.
-- A list of projects that made use of IESopt is maintained in the [projects/](projects/README.md) folder.
-
-### Topics
-
-To be added.
+Head over to [IESopt.jl](https://github.com/ait-energy/IESopt.jl) for all the details.
